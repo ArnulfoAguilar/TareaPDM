@@ -1,0 +1,315 @@
+fileFormatVersion: 2
+guid: a45a160481d05434e8e391685d3301e8
+timeCreated: 1461215132
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Cuerpo
+    21300002: Item
+    21300004: colaB
+    21300006: Bloque_medium
+    21300008: colaA
+    21300010: pataInferiorB
+    21300012: pataSuperiorB
+    21300014: OrejaIzquierda
+    21300016: Cabeza
+    21300018: BloqueSmall
+    21300020: orejaDerecha
+    21300022: pataSuperiorA
+    21300024: pataInferiorA
+    21300026: BloqueLong
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Cuerpo
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 148
+        width: 96
+        height: 106
+      alignment: 9
+      pivot: {x: 0.48807666, y: 0.4352086}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.144642, y: 59.86789}
+        - {x: -33.85536, y: 59.86789}
+        - {x: -46.85536, y: 56.86789}
+        - {x: -46.85536, y: -33.13211}
+        - {x: -37.85536, y: -46.13211}
+        - {x: 34.14464, y: -46.13211}
+        - {x: 43.14464, y: -45.13211}
+        - {x: 49.14464, y: -33.13211}
+        - {x: 49.14464, y: 21.86789}
+        - {x: 44.14464, y: 42.86789}
+    - name: Item
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 172
+        width: 68
+        height: 82
+      alignment: 9
+      pivot: {x: 0.55049896, y: 0.6116724}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.43393, y: 31.842865}
+        - {x: -37.43393, y: -43.157135}
+        - {x: -27.43393, y: -50.157135}
+        - {x: 30.56607, y: -50.157135}
+        - {x: 30.56607, y: 25.842865}
+        - {x: 25.56607, y: 31.842865}
+    - name: colaB
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 229
+        width: 51
+        height: 25
+      alignment: 9
+      pivot: {x: 0.9264371, y: 0.7289288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Bloque_medium
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 160
+        width: 547
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 273.5, y: 27.5}
+        - {x: 269.5, y: 32.5}
+        - {x: 268.5, y: 33.5}
+        - {x: -267.5, y: 33.5}
+        - {x: -272.5, y: 29.5}
+        - {x: -272.5, y: 28.5}
+        - {x: -273.5, y: 27.5}
+        - {x: -273.5, y: -27.5}
+        - {x: -269.5, y: -32.5}
+        - {x: -268.5, y: -32.5}
+        - {x: -267.5, y: -33.5}
+        - {x: 267.5, y: -33.5}
+        - {x: 272.5, y: -29.5}
+        - {x: 272.5, y: -28.5}
+        - {x: 273.5, y: -27.5}
+    - name: colaA
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 174
+        width: 48
+        height: 53
+      alignment: 9
+      pivot: {x: 0.88154984, y: 0.91034395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.314392, y: 4.75177}
+        - {x: -42.314392, y: -25.24823}
+        - {x: -42.314392, y: -48.24823}
+        - {x: -28.314392, y: -48.24823}
+        - {x: 5.685608, y: -15.24823}
+        - {x: 5.685608, y: 4.75177}
+    - name: pataInferiorB
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 157
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: pataSuperiorB
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 115
+        width: 23
+        height: 43
+      alignment: 9
+      pivot: {x: 0.59953505, y: 0.7928165}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: OrejaIzquierda
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 121
+        width: 38
+        height: 51
+      alignment: 9
+      pivot: {x: 0.7409797, y: 0.29800385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.157227, y: 35.801804}
+        - {x: -28.157227, y: 31.801804}
+        - {x: -28.157227, y: -15.198196}
+        - {x: 7.8427734, y: -15.198196}
+        - {x: 9.842773, y: -14.198196}
+        - {x: 9.842773, y: 35.801804}
+    - name: Cabeza
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 62
+        width: 101
+        height: 84
+      alignment: 9
+      pivot: {x: 0.3980019, y: 0.1048247}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.198193, y: 75.194725}
+        - {x: -27.198193, y: 71.194725}
+        - {x: -40.198193, y: 52.194725}
+        - {x: -40.198193, y: -8.805275}
+        - {x: 60.801807, y: -8.805275}
+        - {x: 60.801807, y: 59.194725}
+        - {x: 52.801807, y: 75.194725}
+    - name: BloqueSmall
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 86
+        width: 275
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -133.5, y: 34.5}
+        - {x: -137.5, y: 32.5}
+        - {x: -137.5, y: -34.5}
+        - {x: 133.5, y: -34.5}
+        - {x: 137.5, y: -32.5}
+        - {x: 137.5, y: 34.5}
+    - name: orejaDerecha
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 45
+        height: 58
+      alignment: 9
+      pivot: {x: 0.8306755, y: 0.28291172}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.380398, y: 41.591118}
+        - {x: -37.380398, y: -12.40888}
+        - {x: -31.380398, y: -16.40888}
+        - {x: 3.6196022, y: -16.40888}
+        - {x: 7.619602, y: -13.40888}
+        - {x: 7.619602, y: 31.59112}
+        - {x: 6.619602, y: 41.591118}
+    - name: pataSuperiorA
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 2
+        width: 42
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4182396, y: 0.81576407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.566063, y: 10.685684}
+        - {x: -17.566063, y: -47.314316}
+        - {x: 12.433937, y: -47.314316}
+        - {x: 20.433937, y: -45.314316}
+        - {x: 24.433937, y: -35.314316}
+        - {x: 24.433937, y: 10.685684}
+    - name: pataInferiorA
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 3
+        width: 45
+        height: 57
+      alignment: 9
+      pivot: {x: 0.44912687, y: 0.8413855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.210709, y: 9.041027}
+        - {x: -20.210709, y: -33.958973}
+        - {x: -8.210709, y: -47.958973}
+        - {x: 14.789291, y: -47.958973}
+        - {x: 24.789291, y: -25.958973}
+        - {x: 24.789291, y: 9.041027}
+    - name: BloqueLong
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 17
+        width: 824
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 412, y: 27.5}
+        - {x: 408, y: 32.5}
+        - {x: 407, y: 33.5}
+        - {x: -406, y: 33.5}
+        - {x: -411, y: 29.5}
+        - {x: -411, y: 28.5}
+        - {x: -412, y: 27.5}
+        - {x: -412, y: -27.5}
+        - {x: -408, y: -32.5}
+        - {x: -407, y: -32.5}
+        - {x: -406, y: -33.5}
+        - {x: 406, y: -33.5}
+        - {x: 411, y: -29.5}
+        - {x: 411, y: -28.5}
+        - {x: 412, y: -27.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
